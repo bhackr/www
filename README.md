@@ -1,4 +1,4 @@
-# www.bhacker.com
+# www.bhackr.com
 
 
 ![obraz](https://github.com/user-attachments/assets/cffb1f5f-b5c7-4dae-88de-9bceec4cf369)
