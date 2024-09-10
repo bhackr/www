@@ -1,5 +1,9 @@
 # www.bhacker.com
 
+
+![obraz](https://github.com/user-attachments/assets/cffb1f5f-b5c7-4dae-88de-9bceec4cf369)
+
+
 Working legally as a white hat hacker while complying with the General Data Protection Regulation #GDPR #DSGVO #RODO and the proposed #AIAct requires careful consideration of several factors:
 
 - Always obtain explicit written permission from the organization before conducting any security testing or analysis.
